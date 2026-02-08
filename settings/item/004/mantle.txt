@@ -1,0 +1,11 @@
+Ãû³Æ	µÀ¾ßÖÖÀà	¾ßÌåÀà±ğ	ÏêÏ¸Àà±ğ	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	»ù´¡ÊôĞÔ1ÀàĞÍ	»ù´¡ÊôĞÔ1×îĞ¡Öµ	»ù´¡ÊôĞÔ1×î´óÖµ	»ù´¡ÊôĞÔ2ÀàĞÍ	»ù´¡ÊôĞÔ2×îĞ¡Öµ	»ù´¡ÊôĞÔ2×î´óÖµ	»ù´¡ÊôĞÔ3ÀàĞÍ	»ù´¡ÊôĞÔ3×îĞ¡Öµ	»ù´¡ÊôĞÔ3×î´óÖµ	»ù´¡ÊôĞÔ4ÀàĞÍ	»ù´¡ÊôĞÔ4×îĞ¡Öµ	»ù´¡ÊôĞÔ4×î´óÖµ	»ù´¡ÊôĞÔ5ÀàĞÍ	»ù´¡ÊôĞÔ5×îĞ¡Öµ	»ù´¡ÊôĞÔ5×î´óÖµ	»ù´¡ÊôĞÔ6ÀàĞÍ	»ù´¡ÊôĞÔ6×îĞ¡Öµ	»ù´¡ÊôĞÔ6×î´óÖµ	»ù´¡ÊôĞÔ7ÀàĞÍ	»ù´¡ÊôĞÔ7×îĞ¡Öµ	»ù´¡ÊôĞÔ7×î´óÖµ	ĞèÇóÊôĞÔ1ÀàĞÍ	ĞèÇóÊôĞÔ1ÊıÖµ	ĞèÇóÊôĞÔ2ÀàĞÍ	ĞèÇóÊôĞÔ2ÊıÖµ	ĞèÇóÊôĞÔ3ÀàĞÍ	ĞèÇóÊôĞÔ3ÊıÖµ	ĞèÇóÊôĞÔ4ÀàĞÍ	ĞèÇóÊôĞÔ4ÊıÖµ	ĞèÇóÊôĞÔ5ÀàĞÍ	ĞèÇóÊôĞÔ5ÊıÖµ	ĞèÇóÊôĞÔ6ÀàĞÍ	ĞèÇóÊôĞÔ6ÊıÖµ
+Phi Phong Lesor	0	12	0	\spr\item\equip\pifengtubiao\pifeng_01.spr	338	1	1	<color=green>Phi Phong Lesor		0	1	0	85	100	100	243	5	5	114	1	1													36	10										
+Phi Phong N»m Th¼ng	0	12	0	\spr\item\equip\pifengtubiao\pifeng_02.spr	338	1	1	<color=green>Phi Phong N»m Th¼ng		0	2	0	85	200	200	243	10	10	114	2	2													36	20										
+Phi Phong Vozer	0	12	0	\spr\item\equip\pifengtubiao\pifeng_03.spr	338	1	1	<color=green>Phi Phong Vozer		0	3	0	85	300	300	243	15	15	114	3	3													36	30										
+Phi Phong 2 B¸nh	0	12	0	\spr\item\equip\pifengtubiao\pifeng_04.spr	338	1	1	<color=green>Phi Phong 2 B¸nh		0	4	0	85	400	400	243	20	20	114	4	4													36	40										
+Phi Phong 4 B¸nh	0	12	0	\spr\item\equip\pifengtubiao\pifeng_05.spr	338	1	1	<color=green>Phi Phong 4 B¸nh		0	5	0	85	500	500	243	25	25	114	5	5													36	50										
+Phi Phong Cã Nhµ	0	12	0	\spr\item\equip\pifengtubiao\pifeng_06.spr	338	1	1	<color=green>Phi Phong Cã Nhµ		0	6	0	85	600	600	243	30	30	114	6	6													36	60										
+Phi Phong Ch¹n V­¬ng	0	12	0	\spr\item\equip\pifengtubiao\pifeng_07.spr	338	1	1	<color=green>Phi Phong Ch¹n V­¬ng		0	7	0	85	700	700	243	35	35	114	7	7	218	5	5										36	70										
+Phi Phong C¸n Bé	0	12	0	\spr\item\equip\pifengtubiao\pifeng_08.spr	338	1	1	<color=green>Phi Phong C¸n Bé		0	8	0	85	800	800	243	40	40	114	8	8	218	10	10	227	1	1							36	80										
+Phi Phong Winner	0	12	0	\spr\item\equip\pifengtubiao\pifeng_09.spr	338	1	1	<color=green>Phi Phong Winner		0	9	0	85	900	900	243	45	45	114	9	9	218	15	15	227	5	5	226	5	5				36	90										
+Phi Phong Chñ TŞch	0	12	0	\spr\item\equip\pifengtubiao\pifeng_10.spr	338	1	1	<color=green>Phi Phong Chñ TŞch		0	10	0	85	1000	1000	243	50	50	114	10	10	218	20	20	227	10	10	226	10	10				36	120										
