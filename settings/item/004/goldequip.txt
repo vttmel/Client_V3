@@ -212,7 +212,7 @@ Duyªn Qu©n	0	3	0	\spr\item\equip\ring\obj-ring06.spr	37	1	1	"Thñ thø hoa tïng l·
 [Hoµn Mü] An Bang Cóc Hoa Th¹ch ChØ Hoµn	0	3	0	\Spr\item\equip\ring\obj-ring07.spr	37	1	1	Trang bÞ Hoµng Kim	2	49999	8	0																						36	80											6	312	431				34						
 [Hoµn Mü] An Bang §iÒn Hoµng Th¹ch Ngäc Béi	0	9	1	\Spr\item\equip\waist\obj-waist18.spr	36	1	2	Trang bÞ Hoµng Kim	1	49999	8	0																						36	75											6	313	432				34						
 [Hoµn Mü] An Bang Kª HuyÕt Th¹ch Giíi ChØ	0	3	0	\Spr\item\equip\ring\obj-ring06.spr	37	1	1	Trang bÞ Hoµng Kim	3	49999	8	0																						36	80											6	311	431				34						
-Vinh DiÖu Chi Y	0	2	9	\Spr\item\equip\armor\obj-ma-cloth11-3.spr	22	2	3	"Vinh DiÖu Chi Y, Dòng T©m VÖ §¹o<color>"	0	49999	10	0	30	720	720	31																		36	60											434	405	435				42						
+Vinh DiÖu Chi Y	0	2	9	\Spr\item\equip\armor\obj-ma-cloth11-3.spr	22	2	3	"Vinh DiÖu Chi Y, Dòng T©m VÖ §¹o<color>"	0	49999	10	0	30	720	720	31																		36	60											403	405	435				42						
 Tinh ChuÈn Chi Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes05.spr	26	2	2	"Tinh ChuÈn Chi Ngoa,  tiªu diªu tø h¶i<color>"	0	49999	10	0	30	160	160	31																		36	60											436	400	412				42						
 An Bang B¨ng Tinh Th¹ch H¹ng Liªn	0	4	0	\Spr\item\equip\nick\obj-neck07.spr	36	2	1	Trang bÞ Hoµng Kim	4	49999	10	0																						36	85											550						34						
 An Bang Cóc hoa Th¹ch chØ hoµn	0	3	0	\Spr\item\equip\ring\obj-ring07.spr	37	1	1	Trang bÞ Hoµng Kim	2	49999	8	0																						36	80											551	552					34						
